@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheTechCrafter
-- 👀 I’m interested in Developing (with Java), Physics, Chemistr and Maths
+- 👋 Hi, I’m @TDG
+- 👀 I’m interested in Developing (with Java, C++ and Python), Physics, Chemistry and Maths
 - 🌱 I’m currently learning C
 
 [Auto-generated Message]
